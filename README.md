@@ -1,0 +1,5 @@
+# javascript
+
+String 
+
+(word.lenght)
